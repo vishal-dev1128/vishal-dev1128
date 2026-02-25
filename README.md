@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Vishal Pawar
 **SY BBA(CA) Student**
 
-Email Me 👉 ✉️ **mracegamingnew@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vishalpawar.dev1128@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** College projects (PHP, MySQL, Web Development)
 - 🌱 **I’m currently learning:** Advanced PHP and C++
-- 📫 **How to reach me:** mracegamingnew@gmail.com
+- 📫 **How to reach me:** vishalpawar.dev1128@gmail.com
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
