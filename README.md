@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **vishalpawar.dev1128@gmail.com** For Collaboration/Project
 - 🌱 **I’m currently learning:** Advanced PHP and C++
 - 📫 **How to reach me:** vishalpawar.dev1128@gmail.com
 - 😄 **Pronouns:** He / Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mracegamingnew@gmail.com) 
